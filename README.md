@@ -4,4 +4,4 @@
 [![](https://raw.githubusercontent.com/kamadakohei/kamadakohei/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-![](https://komarev.com/ghpvc/?username=[your kamadakohei]&color=green)
+![](https://komarev.com/ghpvc/?username=[kamadakohei]&color=green)
